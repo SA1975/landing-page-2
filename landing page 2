@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Susan Silva</title>
+    <style>
+        /* Estilos gerais */
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            margin: 0;
+        }
+        /* Estilos específicos para telas menores */
+        @media screen and (max-width: 768px) {
+            /* Exemplo: Redimensionar título */
+            h1 {
+                font-size: 24px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Bem-vindo à Página de Susan Silva</h1>
+
+    <p>Introdução: Olá, sou Susan Silva, uma empreendedora incansável e pensadora inovadora. Além disso, sou Assistente Administrativa e funcionária pública. Como esposa e mãe de uma filha de 21 anos, estudante de medicina, tenho um forte compromisso em transformar ideias em realidade e inspirar outros a fazerem o mesmo. Sou também uma empresária no ramo da agricultura/lavoura, onde encontrei uma paixão profunda pela conexão com a terra e o cultivo de alimentos. Busco constantemente desafiar os limites do que é possível e criar um impacto positivo no mundo ao meu redor. Minha jornada é impulsionada pela busca pela autenticidade e pela oportunidade de deixar minha marca única em tudo o que faço.</p>
+
+    <!-- Primeira imagem -->
+    <img src="https://drive.google.com/uc?export=view&id=1UwD2sbk0wDIRAPRS6McDD-9u1EP7TLHr" alt="Susan Silva em uma atividade relacionada ao seu trabalho como assistente administrativa" title="Susan Silva em uma atividade relacionada ao seu trabalho como assistente administrativa">
+
+    <!-- Segunda imagem -->
+    <img src="https://drive.google.com/uc?export=view&id=1c5gUSg3j5vFJLWHNacvtwu1Rhs1kAWQ4" alt="Susan Silva em uma atividade relacionada ao seu trabalho como empresária no ramo da agricultura" title="Susan Silva em uma atividade relacionada ao seu trabalho como empresária no ramo da agricultura">
+
+    <!-- Terceira imagem -->
+    <img src="https://drive.google.com/uc?export=view&id=1oGkMQW-FYTu4g9zfxqwqFoZaNyqbG8bV" alt="Susan Silva em uma atividade relacionada ao seu curso de inteligência artificial do Santander Open Academy" title="Susan Silva em uma atividade relacionada ao seu curso de inteligência artificial do Santander Open Academy">
+
+    <!-- Quarta imagem (LinkedIn) -->
+    <a href="https://www.linkedin.com/in/susan-silva-59711464/" target="_blank">
+        <img src="URL_DA_IMAGEM_DO_LINKEDIN" alt="LinkedIn" title="Conecte-se com Susan Silva no LinkedIn" style="width: 100px; height: auto;">
+    </a>
+
+    <p>Habilidades e Interesses:...</p>
+
+    <p>Slogan da Marca Pessoal:...</p>
+
+    <p>Chamada para Ação:...</p>
+
+    <p>Atualmente, estou participando do curso <a href="https://www.nocodeinstitute.io/async/introduction-to-ai-qwosg">Introdução à Inteligência Artificial</a> pela NoCode Institute, onde estou aprimorando minhas habilidades em IA. Esta landing page foi criada como parte de um microprojeto relacionado ao curso. Estou entusiasmada para aplicar o que aprendo e criar experiências envolventes online!</p>
+</body>
+</html>
